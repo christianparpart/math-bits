@@ -1,0 +1,17 @@
+{
+    "configurations": {
+        "Q 12": {
+            "adapter": "vscode-cpptools",
+            "configuration": {
+                "request": "launch",
+                "program": "${workspaceRoot}/Q",
+                "args": [
+                    "12"
+                ],
+                "cwd": "${workspaceRoot}",
+                "externalConsole": true,
+                "MIMode": "lldb"
+            }
+        }
+    }
+}
